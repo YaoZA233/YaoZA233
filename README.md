@@ -15,7 +15,7 @@
 
 <br/>
 
-# 🌸 ZhongHui.
+# 🌸 About Me.
 
 ### 在代码与生活之间，探索无限可能。
 
@@ -152,30 +152,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=YaoZA233&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=B887A8&text_color=6D5B69&icon_color=D6A0BE&include_all_commits=true"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaoZA233&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=B887A8&text_color=6D5B69"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=YaoZA233&hide_border=true&background=FFF8FC&ring=D6A0BE&fire=E8A3B8&currStreakLabel=B887A8&sideLabels=8C7185&dates=B49EAC"
-/>
-
-</div>
 
 ---
 
